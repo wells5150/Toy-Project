@@ -1,4 +1,4 @@
-This code is based upon:
+/*This code is based upon:
   RANDOM MAKING ENCOUNTERS - DELAND CRAVEN
   https://randommakingencounters.com/index.php/2020/09/27/lightning-and-thunder-effect-arduino-dfplayer-mini-neopixels/
   Adafruit
@@ -7,6 +7,7 @@ This code is based upon:
   circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino
   One Guy, One Blog
   oneguyoneblog.com/2017/11/01/lightning-thunder-arduino-halloween-diy/
+*/
 
 
 #include <Arduino.h>
